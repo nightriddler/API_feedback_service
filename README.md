@@ -1,7 +1,7 @@
 # API для сервиса обработки отзывов 
 v.1.0
 
-![example workflow](https://github.com/nightriddler/yamdb_final/actions/workflows/yamdb_workflow/badge.svg)
+![example workflow](https://github.com/nightriddler/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 
 ```Django Rest Framework``` ```Nginx``` ```Gunicorn``` ```PostrgreSQL``` ```Docker```
