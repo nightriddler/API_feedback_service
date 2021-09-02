@@ -3,7 +3,7 @@ name: YAMDb
 on:
   push:
     branches:
-      - master
+      - master, *
 
 
 jobs:
